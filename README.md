@@ -7,6 +7,8 @@ Chatroom gitter:
 
 kitchensink-angularjs: Shows how to use AngularJS with JAX-RS and Java EE on JBoss
 ========================
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/amandineslx/projetOption?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Author: Pete Muir
 Level: Intermediate
 Technologies: AngularJS, CDI, JPA, EJB, JPA, JAX-RS, BV
